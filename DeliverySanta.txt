@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<title>DeliverySanta</title>
+<head>
+<style>
+h1
+{
+    font-size:40px;
+    text-align:center;
+}
+p
+{
+    font-size:15px;
+    text-align:center;
+    color:solid black;
+    }
+ul
+{
+    text-align:center;
+    
+}
+li
+{
+    display:inline;
+    font-size:18px;
+    padding:10px;
+    color:gray;  
+}
+a:link
+{
+    text-decoration:none;
+    color:gray;
+}
+a:hover
+{
+    text-decoration:underline;
+}
+.smallhr
+{
+    margin-left: 45%;
+    margin-right:45%;  
+  
+}
+.menuimage
+{
+	float:left;
+	background-color:black;
+	height:430px;
+	width:400px;
+	text-align:center;	
+	margin-bottom:30px;
+	margin-left:15px;
+    margin-right:15px;
+    
+
+}
+.menuimageon
+{
+	float:left;
+    text-align:center;
+    margin:20px;
+  
+}
+
+.text
+{		
+	display:inline;
+	color:white;
+	font-size:20px;
+	margin:100px;
+	
+	
+}
+.menulist
+{
+	
+	float:left;
+
+
+}
+body
+{
+	padding-left:20px;
+	padding-right:20px;
+}
+.oggy
+{
+	padding-left:50px;
+	padding-right:50px;
+
+}
+
+</style>
+</head>
+<body>
+
+<hr>
+<h1>SANTA
+<br><p>[DELIVERING HAPPINESS]</p></h1>
+<hr>
+<ul>
+    <li><a href="#home">HOME</a></li>
+    <li><a href="about">ABOUT US</a></li>
+    <li><a href="menu">MENU</a></li>
+    <li><a href="delivery">DELIVERY CHARGES</a></li>
+    <li><a href="order">ORDER NOW</a></li>
+</ul>
+<hr>
+<hr class="smallhr"/>
+<p>OUR FAVOURITE PICKS</p>
+
+<div>
+	<div class="menuimage">
+	<img src="https://i.ytimg.com/vi/f_kujZi4K2s/maxresdefault.jpg" style="width:400px; height:400px;">
+	<br>
+	<span class="text"><b>Tadka</b></span>
+	</div>
+	
+	<div class="menuimage">
+	<img src="https://inspire.i.lithium.com/t5/image/serverpage/image-id/4117iA79414FF2EFE64C3?v=1.0" style="width:400px; height:400px;">
+	<br>
+	<span class="text"><b>Pizza Hut</b></span>
+	</div>
+
+	<div class="menuimage">
+	<img src="http://ste.india.com/sites/default/files/2016/06/11/497817-meat.jpg" style="width:400px; height:400px;">
+	<br>
+	<span class="text" ><b>Chicken Tikka</b></span>
+	</div>
+ </div>
+ <br><br><br> 	
+ <hr class="smallhr"/>
+
+ <div>
+<p><b>RESTAURANT'S YOU GET</b></p>
+<p>You can order different food items from differnt restaurants</p>
+</div>
+
+<div class="oggy">
+
+
+<div class="menuimageon"><img src="http://ste.india.com/sites/default/files/2016/06/11/497817-meat.jpg" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Kebab's and Curries</b></span>
+</div>
+
+<div class="menuimageon"><img src="http://www.cicis.com/media/1176/pizza_trad_pepperonibeef.png" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Pizza Hut</b></span>
+</div>
+
+<div class="menuimageon"><img src="http://www.fauziaskitchenfun.com/sites/default/files/paneer%20tikka.JPG" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Paneer Tikka</b></span>
+</div>
+
+<div class="menuimageon"><img src="http://hangouts.co.in/wp-content/uploads/2016/08/chhole-kulche-delhi.jpg" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Chole Kulche</b></span>
+</div>
+
+<div class="menuimageon"><img src="https://i.ytimg.com/vi/4ZjUS-5yRpw/maxresdefault.jpg" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Cakes and Cookies</b></span>
+</div>
+
+<div class="menuimageon"><img src="https://i.ytimg.com/vi/a4LnjVpUXCY/maxresdefault.jpg" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Kebab's and Curries</b></span>
+</div>
+
+<div class="menuimageon"><img src="http://bnbjoint.com/wp-content/uploads/2015/04/Thunder_Road_full-300dpi.jpg" style="width:250px ;height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Burger Street</b></span>
+</div>
+
+<div class="menuimageon"><img src="http://images.mid-day.com/images/2017/jan/kebab-2.jpg" style="width:250px; height:200px;"/>
+	<br/>
+	<span class="menulist"><b>Old Take Away</b></span>
+</div>
+
+<hr>
+<p><b><u>copyrights@deliverysanta.in</b></u></p>
+</div>
+
+
+</body>
+</html>
+
